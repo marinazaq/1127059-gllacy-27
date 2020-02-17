@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Марина Анчуткина](https://up.htmlacademy.ru/htmlcss/27/user/1127059).
-* Наставник: [`Михаил Поданев`](https://htmlacademy.ru/profile/mpodanev) .
+* Наставник: [`Михаил Поданев`](https://htmlacademy.ru/profile/mpodanev)
 
 ---
 
